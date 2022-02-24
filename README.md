@@ -1,4 +1,4 @@
-# Potfolio
+# Portfolio
 My potfolio  about my awesomeness.
 
 ## About
